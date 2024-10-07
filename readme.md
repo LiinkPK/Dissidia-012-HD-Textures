@@ -22,7 +22,8 @@ This is going to be a long process since I have to redraw so many faces and rewr
 
 For upscaling purposes I am using a mix of different models in Stabe Diffusion alongside with Photoshop manual retouching as of Liquifying, layering and altering Hues, because I sincerely hate just leaving everything to an AI and not doing anything. We all know that actually looks horrible. This needs the love of human touch and this the best game for my first time doing this.
 
-![IMG_8896](https://github.com/user-attachments/assets/29032abf-e456-4008-b641-0d944594086f)
+![Real-Lightning](https://github.com/user-attachments/assets/22541569-4e6d-46c0-9383-dfee16eb622c)
+![Real Lightning](https://github.com/user-attachments/assets/87365a7b-feef-4c6e-a8b7-0ac09869fea7)
 
 Everyone is very welcome to continue to contribute to this amazing thing that is retexturing Dissidia, since Sony has totally abandoned it.
 
