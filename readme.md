@@ -15,6 +15,8 @@ My brother and I started playing it again on the PSVita recently and that's why 
 
 ![7201BC36-2139-46E4-97EC-3BBCDF2BAEE2](https://github.com/user-attachments/assets/e712428c-8342-427d-85b8-1bcb0801f3e2)
 
+![StoryBannerFULL](https://github.com/user-attachments/assets/c7c7f867-c77b-4b17-9e6b-8be106b13eed)
+
 I'm running it on a Nintendo Switch with the 60fps mod, native resolution set to 3x and nothing else but the textures.
 
 Here's a video of the end result of the background of Story Mode showing the layers on Photoshop, correcting shapes as well as colours and hues:
