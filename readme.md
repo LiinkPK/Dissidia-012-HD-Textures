@@ -27,7 +27,7 @@ For upscaling purposes I am using a mix of different models in Stabe Diffusion a
 
 ![IMG_8896](https://github.com/user-attachments/assets/29032abf-e456-4008-b641-0d944594086f)
 
-Every one is very welcome to continue to contribute to this amazing thing that is retexturing Dissidia, since Sony has totally abandoned it.
+Anyone is very welcome to continue to contribute to this amazing thing that is retexturing Dissidia, since Sony has totally abandoned it.
 
 Thank you all and be seeing you here and in _**Eorzea**_!
 
