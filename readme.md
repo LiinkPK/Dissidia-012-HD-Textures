@@ -8,7 +8,7 @@ The original game was designed to be viewed on a small 480 x 272 PSP display, wh
 
 My brother and I started playing it again on the PSVita recently and that's why I decided to continue retexturing and remastering **ABSOLUTELY EVERYTHING**. From textures, tiny pixelated logos to meshes and art.
 
-![7201BC36-2139-46E4-97EC-3BBCDF2BAEE2](https://github.com/user-attachments/assets/e712428c-8342-427d-85b8-1bcb0801f3e2)
+![StoryBannerFULL](https://github.com/user-attachments/assets/480e9c16-fef5-4ca3-9881-05230ee1d5cd)
 
 I'm running it on a Nintendo Switch with the 60fps mod, native resolution set to 3x and nothing else but the textures.
 
