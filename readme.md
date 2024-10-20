@@ -33,3 +33,4 @@ Thank you all and be seeing you here and in _**Eorzea**_!
 Link
 
 **14/10/2024**: Redrawn/Upscaled logos, texts and some menus UIs like the Calendar and more.
+  ![ChangesDissidia](https://github.com/user-attachments/assets/7b84ba73-0d3f-408c-89c0-721a8c596644)
