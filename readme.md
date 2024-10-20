@@ -31,6 +31,7 @@ Redrawn/Upscaled logos, texts and some menus UIs like the Calendar and more.
   ![ChangesDissidia](https://github.com/user-attachments/assets/7b84ba73-0d3f-408c-89c0-721a8c596644)
 
 **20/10/2024**:
+
 -Redrawn plenty of other logos, texts and more UI stuff
 
 ![Reddit-Gif-Dissidia](https://github.com/user-attachments/assets/3befdf7e-298b-4e95-857a-4a7cfd5e1ccf)
