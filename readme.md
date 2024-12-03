@@ -29,4 +29,4 @@ Link
 
 Edit: I'm also testing a Dark UI
 
-[Title Screen DARK](https://github.com/user-attachments/assets/687cb3b5-b006-4883-b36a-d1f4cd9c4e64)
+![Title Screen DARK](https://github.com/user-attachments/assets/687cb3b5-b006-4883-b36a-d1f4cd9c4e64)
