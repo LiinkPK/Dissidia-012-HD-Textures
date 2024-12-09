@@ -23,6 +23,10 @@ For upscaling purposes I am using a mix of different models in Stabe Diffusion a
 
 Everyone is very welcome to continue to contribute to this amazing thing that is retexturing Dissidia, since Sony has totally abandoned it.
 
+You may join our Discord server to see updates in real time and perhaps lend me a hand with something I could have difficulties with.
+
+https://discord.gg/wbpgtKNSM7
+
 Thank you all and be seeing you here and in _**Eorzea**_!
 
 Link
