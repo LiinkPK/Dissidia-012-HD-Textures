@@ -16,7 +16,7 @@ https://imgur.com/a/2lLWegI
 
 This is going to be a long process since I have to redraw so many faces and rewrite most of the text manually, since it doesn't rely on fonts but a png texture with the words in it.
 
-For upscaling purposes I am using a mix of different models in Stabe Diffusion alongside with Photoshop manual retouching as of Liquifying, layering and altering Hues, because I sincerely hate just leaving everything to an AI and not doing anything. We all know that actually looks horrible. This needs the love of human touch and this is the best game for my first time doing this.
+For upscaling purposes I am using Photoshop for manual retouching as of Liquifying, layering and altering Hues, because I sincerely hate just leaving everything to an AI and not doing anything. We all know that actually looks horrible. This needs the love of human touch and this is the best game for my first time doing this.
 
 ![Real-Lightning](https://github.com/user-attachments/assets/1015f4fa-2047-4a8a-b29a-47878076231f)
 ![Real Lightning](https://github.com/user-attachments/assets/6a78c08d-0375-47cb-9e25-798c7f966c42)
@@ -27,10 +27,16 @@ You may join our Discord server to see updates in real time and perhaps lend me 
 
 https://discord.gg/wbpgtKNSM7
 
-Thank you all and be seeing you here and in _**Eorzea**_!
+Thank you all!
 
 Link
 
 Edit: I'm also testing a Dark UI
 
 ![Title Screen DARK](https://github.com/user-attachments/assets/687cb3b5-b006-4883-b36a-d1f4cd9c4e64)
+
+Edit 2: I have created a texture replacement tool! (29/03/2026)
+
+https://github.com/LiinkPK/PPSSPP-Texture-Replacement-Tool
+
+<img width="1044" height="712" alt="App1" src="https://github.com/user-attachments/assets/8bfefd04-ba6b-4699-94b8-55524cd8bbcf" />
