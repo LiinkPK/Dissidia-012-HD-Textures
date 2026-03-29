@@ -4,7 +4,7 @@ Hi everyone.
 
 Dissidia is an amazing game and a great pillar for the Final Fantasy community and it needs more love than it had on the PSP.
 
-My brother and I started playing it again on the PSVita recently and that's why I decided to continue retexturing and remastering **ABSOLUTELY EVERYTHING**. From textures, tiny pixelated logos to meshes and art.
+My brother and I started playing it again on the PSVita and that's why I decided to continue retexturing and remastering **ABSOLUTELY EVERYTHING**. From textures, tiny pixelated logos to meshes and art.
 
 ![StoryBannerFULL](https://github.com/user-attachments/assets/480e9c16-fef5-4ca3-9881-05230ee1d5cd)
 
