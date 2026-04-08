@@ -37,6 +37,7 @@ Edit: I'm also testing a Dark UI
 
 Edit 2: I have created a texture replacement tool! (29/03/2026)
 
-https://github.com/LiinkPK/PPSSPP-Texture-Replacement-Tool
+https://github.com/LiinkPK/Texture-Replacement-Tool-for-PPSSPP
 
-<img width="1044" height="712" alt="App1" src="https://github.com/user-attachments/assets/8bfefd04-ba6b-4699-94b8-55524cd8bbcf" />
+<img width="1042" height="712" alt="v1 4" src="https://github.com/user-attachments/assets/0de6075e-591e-49f0-817c-b4ece23ab644" />
+
