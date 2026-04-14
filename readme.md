@@ -25,7 +25,7 @@ Everyone is very welcome to continue to contribute to this amazing thing that is
 
 You may join our Discord server to see updates in real time and perhaps lend me a hand with something I could have difficulties with.
 
-https://discord.gg/wbpgtKNSM7
+https://discord.gg/UxGzCkJ4CV
 
 Thank you all!
 
