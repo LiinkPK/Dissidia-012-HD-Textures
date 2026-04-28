@@ -16,7 +16,8 @@ https://imgur.com/a/2lLWegI
 
 This is going to be a long process since I have to redraw so many faces and rewrite most of the text manually, since it doesn't rely on fonts but a png texture with the words in it.
 
-For upscaling purposes I am using Photoshop for manual retouching as of Liquifying, layering and altering Hues, because I sincerely hate just leaving everything to an AI and not doing anything. We all know that actually looks horrible. This needs the love of human touch and this is the best game for my first time doing this.
+> [!NOTE]
+> For upscaling purposes I am using Photoshop for manual retouching as of Liquifying, layering and altering Hues, because I sincerely hate just leaving everything to an AI and not doing anything. We all know that actually looks horrible. This needs the love of human touch and this is the best game for my first time doing this.
 
 ![Real-Lightning](https://github.com/user-attachments/assets/1015f4fa-2047-4a8a-b29a-47878076231f)
 ![Real Lightning](https://github.com/user-attachments/assets/6a78c08d-0375-47cb-9e25-798c7f966c42)
