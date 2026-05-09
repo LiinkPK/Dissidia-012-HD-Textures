@@ -40,6 +40,6 @@ Edit 2: I have created a texture replacement tool! (29/03/2026)
 
 https://github.com/LiinkPK/Texture-Replacement-Tool-for-PPSSPP
 
-<img width="1042" height="712" alt="v1 6" src="https://github.com/user-attachments/assets/704972bd-e2a5-4aed-b65b-3d87999b864e" />
+<img width="1042" height="712" alt="v1 6" src="https://github.com/user-attachments/assets/fa93c072-1012-4ebe-b487-8fa0221998c2" />
 
 
