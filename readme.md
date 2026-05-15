@@ -1,5 +1,7 @@
 # Dissidia 012 Final Fantasy HD Project
 
+![70%](progress.svg)
+
 Hi everyone.
 
 Dissidia is an amazing game and a great pillar for the Final Fantasy community and it needs more love than it had on the PSP.
