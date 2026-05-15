@@ -1,0 +1,56 @@
+<<svg xmlns="http://www.w3.org/2000/svg" width="400" height="60" viewBox="0 0 400 60">
+  <defs>
+    <!-- Gold gradient -->
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFD700"/>
+      <stop offset="50%" stop-color="#FFA500"/>
+      <stop offset="100%" stop-color="#FF6B35"/>
+    </linearGradient>
+    
+    <!-- Liquid wave pattern -->
+    <pattern id="wave" x="0" y="0" width="40" height="20" patternUnits="userSpaceOnUse">
+      <path d="M0 10 Q10 0 20 10 T40 10" fill="none" stroke="rgba(255,255,255,0.3)" stroke-width="1"/>
+    </pattern>
+    
+    <!-- Glow filter -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Background bar -->
+  <rect x="10" y="15" width="380" height="30" rx="15" fill="#1a1a2e" stroke="#333" stroke-width="1"/>
+  
+  <!-- Progress fill (56% example - change width to your %) -->
+  <rect x="10" y="15" width="266" height="30" rx="15" fill="url(#goldGrad)" filter="url(#glow)">
+    <animate attributeName="width" from="0" to="212.8" dur="1.5s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </rect>
+  
+  <!-- Wave overlay on progress -->
+  <rect x="10" y="15" width="212.8" height="30" rx="15" fill="url(#wave)" opacity="0.5">
+    <animate attributeName="width" from="0" to="212.8" dur="1.5s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </rect>
+  
+  <!-- Bubble decorations -->
+  <circle cx="50" cy="25" r="3" fill="rgba(255,255,255,0.6)">
+    <animate attributeName="cy" values="35;20;35" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;0;0.6" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="120" cy="30" r="2" fill="rgba(255,255,255,0.4)">
+    <animate attributeName="cy" values="38;22;38" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="180" cy="28" r="2.5" fill="rgba(255,255,255,0.5)">
+    <animate attributeName="cy" values="36;18;36" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Percentage text -->
+  <text x="200" y="36" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#fff">56%</text>
+  
+  <!-- Dissidia-style decorative corners -->
+  <path d="M10 15 L20 15 L15 20 Z" fill="#FFD700" opacity="0.8"/>
+  <path d="M390 15 L380 15 L385 20 Z" fill="#FFD700" opacity="0.8"/>
+</svg>
