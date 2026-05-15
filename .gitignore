@@ -8,3 +8,6 @@
 *.fbx
 /Dumped
 *.html
+*.json
+*.svg
+*.yml
