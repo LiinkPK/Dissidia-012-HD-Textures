@@ -1,5 +1,7 @@
 # Dissidia 012 Final Fantasy HD Project
 
+<img src="https://raw.githubusercontent.com/LiinkPK/Dissidia-012-HD-Textures/main/root/progress.svg" width="500" alt="Progress">
+
 Hi everyone.
 
 Dissidia is an amazing game and a great pillar for the Final Fantasy community and it needs more love than it had on the PSP.
