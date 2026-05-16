@@ -1,6 +1,6 @@
 # Dissidia 012 Final Fantasy HD Project
 
-<img src="https://raw.githubusercontent.com/LiinkPK/Dissidia-012-HD-Textures/main/progress.svg" width="500" alt="Progress">
+![Progress](progress.svg)
 
 Hi everyone.
 
