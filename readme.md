@@ -10,7 +10,7 @@ My brother and I started playing it again on the PSVita and that's why I decided
 
 ![StoryBannerFULL](https://github.com/user-attachments/assets/480e9c16-fef5-4ca3-9881-05230ee1d5cd)
 
-	@@ -18,8 +16,7 @@ https://imgur.com/a/2lLWegI
+https://imgur.com/a/2lLWegI
 
 This is going to be a long process since I have to redraw so many faces and rewrite most of the text manually, since it doesn't rely on fonts but a png texture with the words in it.
 
