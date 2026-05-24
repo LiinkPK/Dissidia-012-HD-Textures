@@ -19,7 +19,7 @@ This is going to be a long process since I have to redraw so many faces and rewr
 
 ![Real-Lightning](https://github.com/user-attachments/assets/1015f4fa-2047-4a8a-b29a-47878076231f)
 ![Real Lightning](https://github.com/user-attachments/assets/6a78c08d-0375-47cb-9e25-798c7f966c42)
-	@@ -28,20 +25,12 @@ Everyone is very welcome to continue to contribute to this amazing thing that is
+Everyone is very welcome to continue to contribute to this amazing thing that is Dissidia 012 Final Fantasy.
 
 You may join our Discord server to see updates in real time and perhaps lend me a hand with something I could have difficulties with.
 
