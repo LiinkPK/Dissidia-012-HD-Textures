@@ -11,4 +11,4 @@
 /to_do
 Characters/*/*/
 *.pkl
-/textureless
+Stages/*/textureless
