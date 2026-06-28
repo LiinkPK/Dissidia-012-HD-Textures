@@ -1,6 +1,6 @@
-/InProgress
+/inprogress
 *.psd
-/Pulled
+/pulled
 /new
 *.webp
 *.blend
@@ -9,7 +9,7 @@
 /sorted
 /completed
 /to_do
-Characters/*/*/
+characters/*/*/
 *.pkl
-Stages/*/textureless
+/textureless
 desktop.ini
