@@ -9,7 +9,7 @@
 /sorted
 /completed
 /to_do
-characters/*/*/
 *.pkl
 /textureless
 desktop.ini
+characters/*/*/
